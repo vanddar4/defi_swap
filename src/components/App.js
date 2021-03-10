@@ -4,7 +4,7 @@ import DaiToken from '../abis/DaiToken.json'
 import DappToken from '../abis/DappToken.json'
 import TokenFarm from '../abis/TokenFarm.json'
 import Navbar from './Navbar'
-import Main from './Main.js'
+import Main from './Main'
 import './App.css'
 
 

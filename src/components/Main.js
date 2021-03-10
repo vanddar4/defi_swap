@@ -8,7 +8,6 @@ class Main extends Component {
     return (
       <div id="content" className="mt-3">
 
-
         <table className="table table-borderless text-muted text-center">
           <thead>
             <tr>
